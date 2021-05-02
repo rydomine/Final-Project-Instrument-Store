@@ -1,0 +1,27 @@
+.hide{
+  display: none
+}
+
+.box{
+  height:300px;
+  width:300px;
+  border:solid 2px black;
+}
+
+.red:hover{
+ background-color: red;
+  border: 2px red;
+   color: white;
+}
+
+.blue:hover{
+ background-color: blue;
+  border: 2px blue;
+   color: white;
+}
+
+.green:hover{
+ background-color: green;
+  border: 2px green;
+   color: white;
+}
